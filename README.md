@@ -14,7 +14,7 @@
 
 ## 🔍 About Me
 
-> Analytical **Business Intelligence** professional with **20+ years of experience** developing dashboards, KPI reports, and data-driven insights using SQL, Tableau, and modern AI tools. Proven ability to collaborate with Operations, HR, and Finance stakeholders to support workforce planning and operational decision-making.
+> Analytical **Business Intelligence** professional with **years of experience** developing dashboards, KPI reports, and data-driven insights using SQL, Tableau, and modern AI tools. Proven ability to collaborate with Operations, HR, and Finance stakeholders to support workforce planning and operational decision-making.
 
 - 💼 Currently: **Freelance Business Intelligence Specialist** *(Sep 2022 – Present)*
 - 📊 Passionate about transforming complex, multi-source data into actionable insights
