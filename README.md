@@ -2,7 +2,7 @@
 
 # Hi, I'm Sharon Calhoun 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2C3E50&center=true&vCenter=true&random=false&width=620&lines=Business+Intelligence+Specialist;SQL+%7C+Tableau+%7C+Power+BI;AI+Analytics+%26+Prompt+Engineering;20%2B+Years+Turning+Data+into+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2C3E50&center=true&vCenter=true&random=false&width=620&lines=Business+Intelligence+Specialist;SQL+%7C+Tableau+%7C+Power+BI;AI+Analytics+%26+Prompt+Engineering;0%2B+Years+Turning+Data+into+Decisions)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sharon--mc-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharon-mc)
 [![Location](https://img.shields.io/badge/Atlanta%2C_GA-2C3E50?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
