@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sharon Calhoun 👋
+# Hi, I'm Sharon 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2C3E50&center=true&vCenter=true&random=false&width=620&lines=Business+Intelligence+Specialist;SQL+%7C+Tableau+%7C+Power+BI;AI+Analytics+%26+Prompt+Engineering;0%2B+Years+Turning+Data+into+Decisions)](https://git.io/typing-svg)
 
